@@ -14,7 +14,7 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: $1 Consultation
-  link: /consultation/
+- name: Free Competitor Report
+  link: /sign-up/
   new_window: false
   highlight: true
