@@ -4,12 +4,12 @@
   - name: Get Started
     link: /get-started
 - links:
-  - name: Blog
-    link: /blog/
+  # - name: Blog
+  #   link: /blog/
   - name: About
-    link: /about/
+    link: /about
   - name: Contact
-    link: /contact/
+    link: /contact
 - links:
   - name: Facebook
     link: https://www.facebook.com/CarFunnels-2043904952513073/
